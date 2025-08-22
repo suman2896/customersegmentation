@@ -1,9 +1,10 @@
-# Customer Segmentation Analysis
+# Customer Segmentation Analysis using K-Means clustering
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Clustering](https://img.shields.io/badge/Clustering-Algorithm-purple)
+![KMeans](https://img.shields.io/badge/KMeans-Clustering-red)
 
 ## 📋 Overview
 
